@@ -1,0 +1,112 @@
+
+.rectangle{
+    height : 0.8rem;
+    width : 2.5rem;
+    background: linear-gradient(96.34deg, #E537B9 0%, #C040DF 100%);
+    border-radius: 4.5px;
+}
+
+.navbar-text{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #292B2E;
+}
+
+.heading-text-today{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #252B42;
+    padding-top: 15px;
+}
+
+.subheading-text-today{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #858585;
+    margin-top: -15px;
+}
+
+.news-heading{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    color: rgb(66, 26, 34);
+    margin-top:5px;
+}
+
+.news-subHeading{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+letter-spacing: 0.2px;
+color: #586069;
+margin-top: 0px;
+}
+
+.news-description{
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+
+letter-spacing: 0.2px;
+
+color: #292B2E;
+
+
+}
+
+.accordion-button{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.1px;
+color: #737373;
+
+}
+
+
+.carouselButtton{
+    width: 18px;
+    height: 100%;
+    background: rgb(101, 165, 230);
+    border-radius: 10px;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    position:relative;
+    margin-left: 5px;
+}
+
+.newsImg{
+    height: 32.5vw;
+    width : 100%;
+    cursor : pointer;
+}
+
+.newsImg:hover{
+    filter: brightness(50%);
+}
+
+footer {
+    background: #f1f1f1;
+    width: 100%;
+    padding: 16px 0px;
+    color: #999; 
+}
+
