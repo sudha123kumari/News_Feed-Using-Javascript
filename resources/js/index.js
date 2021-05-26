@@ -65,7 +65,6 @@ magazines.forEach(async function(element){
     });
 
     document.getElementById(`${res.feed.title}`).firstElementChild.className += ' active';
-
 });
 
 
